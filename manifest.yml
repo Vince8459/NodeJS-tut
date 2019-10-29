@@ -1,0 +1,7 @@
+            applications:
+            - path: .
+            memory: 256M
+            instances: 1
+            name: vy102-MWK-nodejs
+            host: vy102-MWK-nodejs
+            disk_quota: 1024M
